@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebas\\source\\repos\\TransactionsUsdConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5CD9C-2D10-40AB-A407-107F18A7203A}|TransactionsUsdConverter\\TransactionsUsdConverter.csproj|c:\\users\\sebas\\source\\repos\\transactionsusdconverter\\transactionsusdconverter\\transactionsusdconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CF5CD9C-2D10-40AB-A407-107F18A7203A}|TransactionsUsdConverter\\TransactionsUsdConverter.csproj|solutionrelative:transactionsusdconverter\\transactionsusdconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5CD9C-2D10-40AB-A407-107F18A7203A}|TransactionsUsdConverter\\TransactionsUsdConverter.csproj|c:\\users\\sebas\\source\\repos\\transactionsusdconverter\\transactionsusdconverter\\transactionsusdconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF5CD9C-2D10-40AB-A407-107F18A7203A}|TransactionsUsdConverter\\TransactionsUsdConverter.csproj|solutionrelative:transactionsusdconverter\\transactionsusdconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF5CD9C-2D10-40AB-A407-107F18A7203A}|TransactionsUsdConverter\\TransactionsUsdConverter.csproj|c:\\users\\sebas\\source\\repos\\transactionsusdconverter\\transactionsusdconverter\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0CF5CD9C-2D10-40AB-A407-107F18A7203A}|TransactionsUsdConverter\\TransactionsUsdConverter.csproj|solutionrelative:transactionsusdconverter\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionsUsdConverter",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\TransactionsUsdConverter\\TransactionsUsdConverter\\TransactionsUsdConverter.csproj",
+              "RelativeDocumentMoniker": "TransactionsUsdConverter\\TransactionsUsdConverter.csproj",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\TransactionsUsdConverter\\TransactionsUsdConverter\\TransactionsUsdConverter.csproj",
+              "RelativeToolTip": "TransactionsUsdConverter\\TransactionsUsdConverter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T20:55:25.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env.example",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\TransactionsUsdConverter\\TransactionsUsdConverter\\.env.example",
+              "RelativeDocumentMoniker": "TransactionsUsdConverter\\.env.example",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\TransactionsUsdConverter\\TransactionsUsdConverter\\.env.example",
+              "RelativeToolTip": "TransactionsUsdConverter\\.env.example",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-05T20:48:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionsUsdConverter.cs",
+              "DocumentMoniker": "C:\\Users\\sebas\\source\\repos\\TransactionsUsdConverter\\TransactionsUsdConverter\\TransactionsUsdConverter.cs",
+              "RelativeDocumentMoniker": "TransactionsUsdConverter\\TransactionsUsdConverter.cs",
+              "ToolTip": "C:\\Users\\sebas\\source\\repos\\TransactionsUsdConverter\\TransactionsUsdConverter\\TransactionsUsdConverter.cs",
+              "RelativeToolTip": "TransactionsUsdConverter\\TransactionsUsdConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:13:28.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
